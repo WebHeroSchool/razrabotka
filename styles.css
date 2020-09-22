@@ -1,6 +1,4 @@
-.main-content__title {
-	font-family: Roboto;
-}
+.main-content__title { font-family: roboto; }
 
 .wrapper {
 	width: 80%;
@@ -12,19 +10,13 @@
 	justify-content: space-between;
 }
 
-.logo {
-	padding: 40px 0;
-}
+.logo { padding: 40px 0; }
 
 .menu {
 	display: flex;
 	align-items: center;
 }
 
-.menu__item {
-	padding: 0 13px;
-}
+.menu__item { padding: 0 13px; }
 
-.menu__item:last-child {
-	padding-right: 0;
-}
+.menu__item:last-child { padding-right: 0; }
