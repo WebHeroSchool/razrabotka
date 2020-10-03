@@ -3,7 +3,7 @@ body {
 }
 
 .main-content__title {
-  font-family: 'Roboto', sans-serif;
+  font: bold 66px/70px 'Roboto', arial, helvetica, sans-serif;
 }
 
 .wrapper {
@@ -20,7 +20,7 @@ body {
   position: relative;
   padding: 40px 0;
   padding-left: 44px;
-  font: bold 24px/31px pt_serif, arial, helvetica, sans-serif;
+  font: bold 24px/31px 'pt_serif', arial, helvetica, sans-serif;
 }
 
 .logo__circle {
@@ -31,17 +31,17 @@ body {
   height: 28px;
   transform: translateY(-50%);
   border-radius: 50%;
-  opacity: .7;
+  opacity: 0.7;
 }
 
 .logo__circle_color_blue {
   left: 8px;
   top: 56%;
-  background: #c8dbfb;
+  background-color: #C8DBFB;
 }
 
 .logo__circle_color_dark-blue {
-   background: #0056ec;
+  background-color: #0056EC;
 }
 
 .menu {
