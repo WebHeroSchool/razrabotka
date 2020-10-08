@@ -54,7 +54,7 @@ body {
 .menu {
   display: flex;
   align-items: center;
-  font: 18px/21px 'robotoregular',arial, helvetica, sans-serif;
+  font: 18px/21px 'robotoregular', arial, helvetica, sans-serif;
 }
 
 .menu__item {
