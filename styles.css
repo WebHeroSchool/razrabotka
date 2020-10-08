@@ -3,9 +3,16 @@ body {
 }
 
 .main-content__title {
-  font: bold 66px/70px 'robotobold', arial, helvetica, sans-serif;
+  font: bold 66px/70px 'pt_serifbold', arial, helvetica, sans-serif;
 }
 
+.main-content__description {
+  font: 22px/26px 'robotoregular', arial, helvetica, sans-serif;
+}
+
+.main-content__button {
+  font: 18px/21px 'robotoregular', arial, helvetica, sans-serif;
+}
 .wrapper {
   margin: auto;
   width: 80%;
@@ -47,6 +54,7 @@ body {
 .menu {
   display: flex;
   align-items: center;
+  font: 18px/21px 'robotoregular',arial, helvetica, sans-serif;
 }
 
 .menu__item {
